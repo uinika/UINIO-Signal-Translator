@@ -5,10 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "UINIO-Level-Translator")
-    (date "2023-12-29")
+    (title "UINIO-Signal-Translator")
+    (date "2024-01-08")
     (rev "Version 1.0.0")
-    (company "电子技术博客 UinIO.com")
+    (company "UinIO.com 电子技术实验室")
   )
 
   (lib_symbols
