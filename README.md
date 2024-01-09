@@ -1,6 +1,6 @@
 # UINIO-Signal-Translator 信号电平转换器
 
-[**UINIO-Signal-Translator**](https://github.com/uinika/UINIO-Signal-Translator) 是一款基于德州仪器 TSSOP 封装的 [**TXS0108**](https://www.ti.com.cn/product/cn/TXS0108E) 以及 [**TXB0108**](https://www.ti.com.cn/product/cn/TXB0108) 的双向电平信号转换器模组，适用于漏极开路或者推挽输出的应用，支持 `1.8V`、`2.5V`、`3.3V`、`5V` 等常见信号电平之间的相互转换。
+[**UINIO-Signal-Translator**](https://gitee.com/uinika/UINIO-Signal-Translator) 是一款基于德州仪器 TSSOP 封装的 [**TXS0108**](https://www.ti.com.cn/product/cn/TXS0108E) 以及 [**TXB0108**](https://www.ti.com.cn/product/cn/TXB0108) 的双向电平信号转换器模组，适用于漏极开路或者推挽输出的应用，支持 `1.8V`、`2.5V`、`3.3V`、`5V` 等常见信号电平之间的相互转换。
 
 ![](./Images/PCB-3D-1.png)
 
